@@ -27,34 +27,34 @@ _**Trophy Road**_ (mình xin phép viết tắt là _**TR**_) là nơi bạn s�
 
 *   _**Training Camp (Trại huấn luyện)**_: Đây là Arena đầu tiên và duy nhất bạn được phép đánh với deck không đủ card khi bạn mới lập 1 con acc mới toanh nhằm mục đích làm quen với game như cách thả quân, thả spell, cách công/thủ cơ bản và nó không được xếp vào 23 Arena chính như mình đã nói ở trên. Các card có thể được nhận ban đầu khi mới chơi và mở chest đó là:(Mình sẽ nói theo thứ tự từ trái sang phải, từ trên xuống dưới, những Arena sau các bạn hiểu tương tự, thêm vào đó mình sẽ viết tên card dưới dạng viết tắt luôn): Arrows (Mưa tên), Minions, Archers (Cung thủ), Knight - K9 (Kị sĩ), Princess Tower (Tháp Công Chúa), Fireball - FB (Hoả cầu), Mini Pekka - Mini PK, Musketeer - Mus - Musk (Ngự lâm quân), Giant (Khổng nhân)
 
-    <figure><img src=".gitbook/assets/image (5).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="./assets/image (5).png" alt="" width="360"><figcaption></figcaption></figure>
 *   _**Arena 1 - Goblin Stadium (Đấu trường Yêu tinh)**_ - Yêu cầu cúp cao hơn hoặc = 0: Các card có thể nhận được thêm cùng Arena dưới đó là: Spear Goblin - Spear Gob (Yêu tinh ném lao), Goblin - Gob (Yêu tinh), Goblin Cage - Gob Cage (Lồng yêu tinh), Goblin Hut - Gob Hut (Lều yêu tinh)
 
-    <figure><img src=".gitbook/assets/image (7).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="./assets/image (7).png" alt="" width="360"><figcaption></figcaption></figure>
 * _**Arena 11 - Electro Valley (Thung lũng Điện)**_: Yêu cầu cúp cao hơn hoặc = 3400: Các card có thể nhận được thêm cùng Arena dưới đó là: The log - Log (Khúc gỗ), Mega Knight - MK (Siêu Kị sĩ), Ram Rider (Lính phá thành), Electro Wizard - Ewiz (Điện Pháp sư), Inferno Dragon - Rồng ngu (Hoả ngục long), Sparky - Xe rác, Miner (Thợ mỏ), Princess (Công chúa), Dagger Duchess - Tháp Dao (Nữ công tước ném dao)
 
 Từ Arena 11 trở đi các bạn sẽ có thể mở chest ra được legendary card.
 
-<figure><img src=".gitbook/assets/image (20).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="./assets/image (20).png" alt="" width="360"><figcaption></figcaption></figure>
 
 * _**Arena 16 - Executioner's Kitchen (Nhà bếp của Đao phủ)**_: Yêu cầu cúp cao hơn hoặc = 5500: Các card có thể nhận được thêm cùng Arena dưới đó là: Golden Knight - GK (Hiệp sĩ Giáp vàng), Skeleton King - Ske King (Bạch Cốt Vương)
 
 Từ 5k5 tropy (Arena 15 trở lên) anh em có thể mở ra Champion card
 
-<figure><img src=".gitbook/assets/image (24).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="./assets/image (24).png" alt="" width="360"><figcaption></figcaption></figure>
 
 *   _**Arena 17 - Royal Crypt (Hầm mộ Hoàng gia)**_: Yêu cầu cúp cao hơn hoặc = 6000: Các card có thể nhận được thêm cùng Arena dưới đó là: Archer Queen - AQ (Nữ hoàng Cung thủ), Mighty Miner - MM (Thợ mỏ dũng mãnh)
 
-    <figure><img src=".gitbook/assets/image (26).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="./assets/image (26).png" alt="" width="360"><figcaption></figcaption></figure>
 *   _**Arena 18 - Silent Sanctuary (Ngôi đền Yên tĩnh)**_: Yêu cầu cúp cao hơn hoặc = 6500: Các card có thể nhận được thêm cùng Arena dưới đó là: Little Prince - LP (Hoàng tử bé), Monk (Thầy tu)
 
-    <figure><img src=".gitbook/assets/image (27).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="./assets/image (27).png" alt="" width="360"><figcaption></figcaption></figure>
 
 **LƯU Ý:** Từ Arena 18 trở đi, các bạn mở mọi loại chest là các bạn đều có khả năng nhận được tất cả các card từ đầu game đến hiện tại
 
 *   _**Arena 23 - Legendary Arena (Đấu trường Huyền thoại)**_: Yêu cầu cúp = 9000:
 
-    <figure><img src=".gitbook/assets/image (32).png" alt="" width="360"><figcaption></figcaption></figure>
+    <figure><img src="./assets/image (32).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ### 3. Path of Legends là gì?
 
@@ -81,7 +81,7 @@ _**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng l�
 
           _**Lưu ý quan trọng với Win Multi:**_ Cứ mỗi lần win đầu tiên của Season mới, Multi sẽ giảm đi 1 lần cho đến khi nào còn x1 là bạn sẽ phải tiếp tục leo từng Step để tiến tới League cao hơn, nếu xen kẽ đó bạn bị thua 1 trận thì bạn sẽ ko bị trừ Multi nếu Multi còn đang lớn hơn hoặc = x2 -> Lời khuyên dành cho bạn: Hãy thử sức mình leo rank lên cao hết sức có thể để tránh trường hợp leo từng Step khi Season mới đến sẽ mất rất nhiều thời gian.
 
-      <figure><img src=".gitbook/assets/image (38).png" alt="" width="285"><figcaption></figcaption></figure>
+      <figure><img src="./assets/image (38).png" alt="" width="285"><figcaption></figcaption></figure>
 
 ### 4. Khái niệm các loại deck và thuật ngữ trong game
 
@@ -97,20 +97,20 @@ _**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng l�
 * _**Aggro (Pulling aggro, Re-aggro, Retarget):**_ có nghĩa là thu hút. VD dễ hiểu đó là chẳng hạn bạn đang có tesla đặt ở trung tâm, đối thủ có MK ngay sát cầu. Thông thường nếu ko ra thêm 1 card nữa, MK sẽ tự động nhắm đến tesla mà đánh nhưng khi bạn đặt 1 card VD như K9 xuống gần MK thì MK sẽ đánh vào K9 chứ ko đánh tesla
 *   _**Cycle:**_ cycle được dịch ra có nghĩa là chu kì. Vậy cycle của 1 card tức là như thế nào? 1 deck bạn sắp xếp để đi battle có tất cả 8 card, khi bạn dùng 1 card bất kì, thông thường bạn phải dùng tiếp **4 card** nữa thì mới thấy card mình vừa dùng xuất hiện trên tay. Mình sẽ lấy ví dụ đơn giản cho bạn dễ hiểu. Đầu tiên, VD đây là deck của mình:
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="./assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Khi mới bắt đầu vào trận card trên tay của mình gồm có: FB, Tesla, Ice và Ske. Ở đây mình đã sử dụng Fireball đầu tiên, vậy qua 4 card mình dùng tiếp theo trên tay mình sẽ lại có FB trong hình phía bên dưới (Mình đã có chú thích). Thứ tự card mình đã sử dụng ngay sau FB lần đầu tiên đó là: Ske -> Ice -> Archer -> Log.
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="190"><figcaption><p>Trước khi dùng FB</p></figcaption></figure>
+<figure><img src="./assets/image (1).png" alt="" width="190"><figcaption><p>Trước khi dùng FB</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="190"><figcaption><p>Sau khi hết 1 vòng cycle, FB đã lại có trên tay để sẵn sàng sử dụng tiếp khi cần</p></figcaption></figure>
+<figure><img src="./assets/image (2).png" alt="" width="190"><figcaption><p>Sau khi hết 1 vòng cycle, FB đã lại có trên tay để sẵn sàng sử dụng tiếp khi cần</p></figcaption></figure>
 
 **Trường hợp đặc biệt** trong deck của bạn có Champion card\
 Như deck bên dưới đây, mình có Mighty Miner trong deck. Vì đặc tính không thể có 2 champion trên map vậy nên giả sử MM của mình vẫn còn sống trên map mình có thể cycle ra Hog Rider thứ 2 chỉ mất tối thiểu 4 elixir:
 
 MM -> Hog -> **Skeleton -> Ice Spirit -> Log** -> 2nd Hog
 
-<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle nếu deck của bạn có mang Champion card nhé! ;)
 
@@ -240,7 +240,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
       * Kiếm trong 1 số Challenge đặc biệt tương ứng với mỗi mùa.
       * Mua Pass Royale và bạn cày Crown trong Pass bạn cũng sẽ nhận Emote độc quyền của Season đó
 
-    <figure><img src=".gitbook/assets/image (60).png" alt="" width="360"><figcaption><p>Emote</p></figcaption></figure>
+    <figure><img src="./assets/image (60).png" alt="" width="360"><figcaption><p>Emote</p></figcaption></figure>
 4. [**Magic Items**](https://clashroyale.fandom.com/wiki/Magic\_Items)
    1. Khái niệm Magic Items: Magic Items là một loại tiền tệ cho phép người chơi upgrade và nâng card một cách nhanh chóng hơn. Magic Items có thể cho người chơi những lá bài cụ thể, nâng cấp card mà không cần sử dụng Gold, và mở khóa Chests ngay lập tức. Magic Items có thể được tìm thấy trong Chests, phần thưởng trên Trophy Road, từ các ưu đãi đặc biệt trong Shop (Mua bằng tiền thật), từ Season Shop, như một phần thưởng từ các Challenge đặc biệt, và từ Pass Royale. Người chơi có thể xem những Magic Items mà họ đang có bằng cách nhấp vào tab "Magic Items" bên cạnh mục "Cards" trong tab Collections (Bộ sưu tập). Lưu ý nho nhỏ rằng tất cả người chơi có trụ King < level 5 sẽ không được sở hữu bất cứ 1 magic items nào
    2. Phân loại Magic Items:
@@ -250,15 +250,15 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
           * Wild Cards không thể được sử dụng một cách thủ công trên các card có đủ để upgrade, hoặc nếu người chơi chưa mở khóa nó. Khi dùng Wild Card, bạn sẽ không thể chỉ định mình sẽ được dùng số lượng cụ thể mà nó chỉ được dùng theo 2 điều kiện sau: 1 là nó sẽ fill hết số Wild Card bạn có vào Card mình muốn nâng cấp nhưng không thể đủ cho bạn up thêm 1 level nữa, 2 là nó sẽ fill đến khi nào bạn vừa đủ Card để upgrade lên level tiếp theo (Không cộng dồn).
           * Wild Card bạn lưu trữ được nhiều hay không sẽ phụ thuộc vào level King của bạn. Khi kho lưu trữ số lượng Wild Card của bạn đầy, nó sẽ tự động chuyển thành 1 card với Rarity (Độ hiếm tương ứng) bất kì.
 
-          <figure><img src=".gitbook/assets/image (54).png" alt="" width="160"><figcaption><p>Common Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (54).png" alt="" width="160"><figcaption><p>Common Wild Card</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (55).png" alt="" width="160"><figcaption><p>Rare Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (55).png" alt="" width="160"><figcaption><p>Rare Wild Card</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (56).png" alt="" width="188"><figcaption><p>Epic Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (56).png" alt="" width="188"><figcaption><p>Epic Wild Card</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (57).png" alt="" width="160"><figcaption><p>Legendary Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (57).png" alt="" width="160"><figcaption><p>Legendary Wild Card</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (58).png" alt="" width="158"><figcaption><p>Champion Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (58).png" alt="" width="158"><figcaption><p>Champion Wild Card</p></figcaption></figure>
       2.  _**Book of Cards (Các loại sổ)**_
 
           * Book of Cards là 1 loại Magic Items cho phép mình fill toàn bộ số card còn thiếu ở mức độ Rarity tương ứng với mỗi card. Book có thể được nhận từ việc đánh các Challenge, các Event đặc biệt, mua trong Season Shop hoặc mua bằng tiền thật trong Shop (nạp)
@@ -270,51 +270,51 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
           * \=> Ở đây vì AQ là Rarity Champion nên bắt buộc phải dùng Book of Books để fill mảnh AQ sao cho đủ lên lv14. Vậy bạn dùng Book trong A hay B để tránh lãng phí? Câu trả lời là A tại vì với mọi loại Book, nó không quan tâm mình có sẵn bao nhiêu mảnh để nâng, nó chỉ có tác dụng fill vừa đủ số mảnh cho mình nâng lên level tiếp theo. Ở đây bạn dùng vào A, bạn sẽ được tặng 19/20 mảnh AQ để nâng lên 14; còn với B, bạn sẽ chỉ được tặng 10/20 mảnh AQ để nâng lên lv14. Như vậy so với A, bạn lỗ trắng luôn 9 mảnh Champ rất lãng phí mà mảnh Champ kiếm được rất rất khó (1 mùa leo được UC thì chỉ được 2 mảnh Champ), nhân phẩm cực tốt khi mở Lucky Drop mỗi ngày thì mới ra được mảnh Champ. => **HÃY DÙNG BOOK 1 CÁCH CẨN THẬN VÀ HỢP LÝ**
           * _**LƯU Ý NỮA VỀ INVENTORY (KHO LƯU TRỮ) CỦA BẠN:**_ Bạn sẽ chỉ được giữ 1 cuốn sách mỗi loại, khi bạn định giữ cuốn sách thứ 2, bạn sẽ nhận được 1 warning (cảnh báo) đó là convert book sang 100 Gems không kể Rarity của Book. Mình khuyên bạn nên dùng vào những card thật sự cần thiết để nâng hoặc ít mảnh để nâng, tránh trường hợp convert sang 100 Gems lãng phí hẳn 1 Book.
 
-          <figure><img src=".gitbook/assets/image (47).png" alt="" width="188"><figcaption><p>Book of Cards (Common)</p></figcaption></figure>
+          <figure><img src="./assets/image (47).png" alt="" width="188"><figcaption><p>Book of Cards (Common)</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (48).png" alt="" width="188"><figcaption><p>Book of Cards (Rare)</p></figcaption></figure>
+          <figure><img src="./assets/image (48).png" alt="" width="188"><figcaption><p>Book of Cards (Rare)</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (49).png" alt="" width="188"><figcaption><p>Book of Cards (Epic)</p></figcaption></figure>
+          <figure><img src="./assets/image (49).png" alt="" width="188"><figcaption><p>Book of Cards (Epic)</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (53).png" alt="" width="188"><figcaption><p>Book of Cards (Legendary)</p></figcaption></figure>
+          <figure><img src="./assets/image (53).png" alt="" width="188"><figcaption><p>Book of Cards (Legendary)</p></figcaption></figure>
 
-          <figure><img src=".gitbook/assets/image (52).png" alt="" width="188"><figcaption><p>Book of Books</p></figcaption></figure>
+          <figure><img src="./assets/image (52).png" alt="" width="188"><figcaption><p>Book of Books</p></figcaption></figure>
       3.  _**Magic Coin:**_ Magic Coin (Đồng tiền ma thuật) được dùng để thay Gold nâng card lên level tiếp theo nếu bạn đủ mảnh. Magic Coin chỉ có thể được mua bằng tiền thật (Visa thần chưởng) trong Shop. Bạn CHỈ NÊN DÙNG Magic Coin để nâng 1 card từ lv13 lên lv14 vì nó thay 100k Gold cho bạn. LƯU Ý giống với Book, bạn chỉ được lưu trữ 1 Magic Coin trong cùng 1 thời điểm, khi có cái thứ 2 là cái cũ sẽ bị convert sang 100 Gems.
 
-          <figure><img src=".gitbook/assets/image (46).png" alt="" width="188"><figcaption><p>Magic Coin</p></figcaption></figure>
+          <figure><img src="./assets/image (46).png" alt="" width="188"><figcaption><p>Magic Coin</p></figcaption></figure>
       4.  _**Chest Key:**_
 
           * Chest Key (Chìa khóa mở rương) được dùng để mở khóa 1 rương bất kì free mà không cần đợi thời gian để mở. Bạn chỉ nên dùng Key để mở Chest đối với các rương mở mất 1 ngày đó là (Mega Lightning Chest, Legendary Chest, Royal Wild Chest, Legendary King Chest)
           * Chest Key được nhận bởi tham gia Global Tournament, phần thưởng của Pass Royale, mua trong Shop bằng tiền thật, max inventory để lưu trữ key cũng tăng dần theo King level, nếu tràn inventory thì bạn sẽ nhận được cảnh báo convert key sang 100 Gold
 
-          <figure><img src=".gitbook/assets/image (45).png" alt="" width="188"><figcaption><p>Chest Key</p></figcaption></figure>
+          <figure><img src="./assets/image (45).png" alt="" width="188"><figcaption><p>Chest Key</p></figcaption></figure>
       5.  _**Card Boost Potion:**_
 
           * Card Boost Potion (Lọ thuốc cường hóa card): là 1 loại Magic Item có tác dụng boost (Cường hóa) 1 card lên đúng bằng level trụ King của bản thân trong 1h đồng hồ.
           * Lọ Potion này chỉ có thể nhận được khi tham gia các Event đặc biệt hoặc mua bằng tiền thật trong Shop. Bạn nên chỉ dùng loại item này khi bạn thực sự cần leo cúp cấp tốc trong vòng 1h đồng hồ đó vào card bạn định dùng để tối ưu lối chơi và leo cao nhất có thể.
           * Max lưu trữ của loại item này được mặc định là 8 lọ.
 
-          <figure><img src=".gitbook/assets/image (42).png" alt="" width="160"><figcaption><p>Card Boost Potion</p></figcaption></figure>
+          <figure><img src="./assets/image (42).png" alt="" width="160"><figcaption><p>Card Boost Potion</p></figcaption></figure>
       6.  _**Wild Shard:**_
 
           * Wild Shard: là 1 loại Magic Item dùng để mở khóa Evolution (tiến hóa) cho card đã khả dụng Evolution. Giống với Wild Card, Wild Shard cũng để thêm mảnh Evo vào mọi loại card tương ứng.
           * Wild Shard chỉ có thể nhận được thông qua nạp tiền thật mua ở trong shop, các Event đặc biệt, Epic Lucky Drops mỗi ngày hoặc Season Shop.
           * Giới hạn lưu trữ của loại Item này là 6 mảnh. Nếu thừa sẽ tự động convert thành 1 mảnh Evo của 1 card bất kì đã khả dụng Evo.
 
-          <figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption><p>Wild Shard</p></figcaption></figure>
+          <figure><img src="./assets/image (43).png" alt=""><figcaption><p>Wild Shard</p></figcaption></figure>
       7.  _**Elite Wild Cards:**_
 
           * Elite Wild Card (ewc) là 1 loại Magic Item được dùng để nâng cấp card từ lv14 lên lv15 (Elite lv). Ewc có thể fill vào tất cả card ở lv14 ở mọi Rarity. Mặc định cứ đủ 50000 ewc cho 1 card bạn đang ở lv14 sẽ được nâng lên 15 với chi phí là FREE.
           * Kiếm Ewc bằng cách nào? Ewc được kiếm bằng cách mua trong Shop (Kể cả tiền thật, Gold hoặc Gems), được convert từ các card tràn lv14 (Nghĩa là khi bạn lv14 hoặc 15 1 card rồi, bạn tiếp tục mở ra card đó thì nó sẽ được tự động quy về ewc). Tùy thuộc vào Rarity của card lv14 mở ra, số card tràn sẽ được convert về ewc. Common -> 1 Ewc, Rare -> 5 Ewc, Epic -> 20 Ewc, Legendary -> 1500 Ewc, Champion -> 4000 Ewc. Mọi loại Book khi dùng lên 1 card từ lv14 trở lên sẽ được convert thành 10000 Ewc.
           * Max inventory của Ewc là 400000 cho mỗi acc
 
-          <figure><img src=".gitbook/assets/image (44).png" alt="" width="188"><figcaption><p>Elite Wild Card</p></figcaption></figure>
+          <figure><img src="./assets/image (44).png" alt="" width="188"><figcaption><p>Elite Wild Card</p></figcaption></figure>
 5. **Experience (Exp Journey King) và Star Points**
    1. [Exp Journey King (Exp):](https://clashroyale.fandom.com/wiki/Experience) Exp mà một người chơi xác định King Level của họ. Exp không thể được kiếm chỉ bằng cách battle mà được kiếm bằng cách nâng cấp card và Donate card cho các thành viên trong clan. Exp kiếm được từ việc donate card thay đổi dựa trên Rarity của card được donate (1 Card Common = 1 Exp, trong khi 1 Card Rare hoặc Card Epic = 10 Exp). Exp kiếm được từ việc up level card thay đổi từ Rarity của card đến số lần người chơi đã upgrade chúng. Bạn sẽ kiếm được nhiều Exp hơn từ việc upgrade lv card cao hơn. Số lượng bạn kiếm được phụ thuộc vào level của card bạn upgrade.
    2. [Star Points:](https://clashroyale.fandom.com/wiki/Star\_Points) Star Points (Điểm Sao) được sử dụng để mở khóa các thay đổi trang trí cho card. Star Points có thể được dùng để nâng cấp card ở level 7, 10 và 13 và cung cấp cho chúng Star Levels (Cấp độ Sao), nhưng người chơi phải có King Level từ lv6 trở lên. Card có Star Level sẽ nảy sáng màu vàng rực rỡ khi được triển khai. Card với nhiều Star Level hơn sẽ có hiệu ứng hạt vàng và quần áo, giáp, vũ khí, hoặc các yếu tố khác bằng vàng được thêm vào hình động của chúng trong trận đấu. Star Level không có bất kỳ ảnh hưởng nào đối với tương tác; chúng hoàn toàn mang tính chất trang trí. Tất cả các thẻ bài không phải Champion hiện tại đều có ít nhất 1 Star Level, với một số có 2 hoặc 3 Star Level.
 6.  [**Lucky Drop/Daily Tasks:**](https://clashroyale.fandom.com/wiki/Daily\_Tasks) **Là n**hiệm vụ hàng ngày, mặc định bây giờ đó là win 3 trận, kiếm 10 crown và battle 1 trận. Sau khi làm xong Daily Tasks, bạn sẽ nhận thêm 6 crown free và 1 lần mở Lucky Drop. Lucky drop cho tỉ lệ mở được mọi tài nguyên ở trong game trừ những thứ bắt buộc phải nạp. Tùy thuộc vào độ Rarity bạn mở được từ Lucky Drop thì reward càng có giá trị cao. Rarity của Lucky Drop cũng được chia thành 4 loại lớn: Common, Rare, Epic và Legendary
 
-    <figure><img src=".gitbook/assets/image (41).png" alt="" width="188"><figcaption><p>Lucky Drop</p></figcaption></figure>
+    <figure><img src="./assets/image (41).png" alt="" width="188"><figcaption><p>Lucky Drop</p></figcaption></figure>
 
 ## <mark style="color:red;">III. Chiến thuật</mark>
 
@@ -338,7 +338,7 @@ Sau khi bạn đọc và làm quen với các phần thuật ngữ cơ bản c�
      * Quan trọng nhất vẫn là độ **Synergy** của các card có tốt hay không. Đương nhiên mình chỉ nói là gần như đầy đủ vì trong game này không có 1 deck nào có thể thỏa mãn đủ tất tần tật các yếu tố trên, họ chủ yếu dựa vào Synergy giữa các card để đánh giá deck đó được build là chuẩn form để chơi hay không.
    *   VD: Chúng ta cùng phân đến 1 deck chuẩn hiện tại đó là Logbait with Tesla 3.1 (Build deck trên Deckshop.pro)
 
-       <figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="./assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
        Deck này được coi là deck chuẩn bởi bạn nhìn trên hình, độ Synergy giữa các card với nhau là tương đối tốt.
 
