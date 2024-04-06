@@ -19,4 +19,4 @@ Các thuật ngữ, tên gọi trong tài liệu này mình cũng sẽ sử dụ
 
 Tài liệu này sẽ bao gồm:
 
-[readme-1.md](readme-1.md)
+[Hướng dẫn cho người mới chơi](readme-1.md)
