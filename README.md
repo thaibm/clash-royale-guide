@@ -16,3 +16,9 @@ Vì sao lại như vậy?&#x20;
 Do vậy để hiểu nhau, hòa nhập, học hỏi và giao lưu thuận lợi nhất bạn nên sử dụng tiếng Anh trong game.
 
 Các thuật ngữ, tên gọi trong tài liệu này mình cũng sẽ sử dụng tiếng Anh theo chuẩn và có kèm giải thích bằng tiếng Việt.
+
+Tài liệu này sẽ bao gồm:
+
+{% content-ref url="readme-1.md" %}
+[readme-1.md](readme-1.md)
+{% endcontent-ref %}
