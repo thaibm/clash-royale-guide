@@ -350,11 +350,11 @@ Các bạn truy cập [https://royaleapi.com/](https://royaleapi.com/) có thể
 
 * Tìm deck nào đang được rate cao nhất ở Ultimate Champion/Grand Challange (Đây là hai rank thể hiện đúng nhất về sức mạnh của deck)
 
-<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 * Các bạn chọn filter theo card mà bạn đang muốn tìm. Bấm vào refine và Include cards/Exclude cards
 
-<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -363,13 +363,13 @@ Các bạn truy cập [https://royaleapi.com/](https://royaleapi.com/) có thể
 Các bạn vào đường link mình gắn bên trên có thể thấy giao diện giúp bạn build deck. Ví dụ:\
 
 
-<figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Bạn có thể click vào Check Deck để đọc chi tiết phân tích về mức độ phù hợp, hỗ trợ nhau của các card trong deck của mình, cũng như interaction với các cards khác trong game.
 
-<figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 
 
