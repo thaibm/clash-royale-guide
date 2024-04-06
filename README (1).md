@@ -324,7 +324,7 @@ Sau khi bạn đọc và làm quen với các phần thuật ngữ cơ bản c�
 
 1.  Có những lối chơi nào trong Clash Royale?
 
-    Như mình đã nói, đây là 1 game mang tính chiến thuật cao, cho nên lối chơi của mỗi người là khác nhau, rất đa dạng và phong phú. Có người lại thích chơi trò xoay nhanh cho đối phương chóng mặt và bắt họ phải đỡ win condition của mình, có người lại thích chơi kiểu bình tĩnh phải giữ đầu thật lạnh rồi dồn 1 phát hạ gục đối thủ ngay tức thì... Từ những lối chơi đó mà chúng ta đã phân ra các loại deck cơ bản chính ở phần ["Các loại deck trong game"](huong-dan-cho-nguoi-moi-choi.md#id-4.-khai-niem-cac-loai-deck-va-thuat-ngu-trong-game)&#x20;
+    Như mình đã nói, đây là 1 game mang tính chiến thuật cao, cho nên lối chơi của mỗi người là khác nhau, rất đa dạng và phong phú. Có người lại thích chơi trò xoay nhanh cho đối phương chóng mặt và bắt họ phải đỡ win condition của mình, có người lại thích chơi kiểu bình tĩnh phải giữ đầu thật lạnh rồi dồn 1 phát hạ gục đối thủ ngay tức thì... Từ những lối chơi đó mà chúng ta đã phân ra các loại deck cơ bản chính ở phần ["Các loại deck trong game"](<README (1).md#id-4.-khai-niem-cac-loai-deck-va-thuat-ngu-trong-game>)&#x20;
 2. Thế nào là Balance Deck?
    * Balance Deck / Standard Deck (Deck chuẩn): là loại deck được build có gần như đầy đủ các yếu tố bổ trợ, tương tác (Synergy) lẫn nhau rất tốt:&#x20;
      * Win Condition,&#x20;
