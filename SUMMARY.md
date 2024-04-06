@@ -1,7 +1,10 @@
 # Table of contents
 
-* [😉 Clash Royale Guide](README.md)
-* [🤩 Hướng dẫn cho người mới chơi](<README (1).md>)
+* [😊 Clash Royale Guide](README.md)
+* [🤩 Hướng dẫn cho người mới chơi](huong-dan-cho-nguoi-moi-choi.md)
+* [🤩 Hướng dẫn cho người mới chơi](readme.md)
+* [😉 Clash Royale Guide](readme-1.md)
+* [🤩 Hướng dẫn cho người mới chơi](huong-dan-cho-nguoi-moi-choi-1.md)
 * [⚒️ Hướng dẫn chơi Hog Rider](huong-dan-choi-hog-rider.md)
 * [🎯 Hướng dẫn chơi Xbow](huong-dan-choi-xbow.md)
 * [🪨 Hướng dẫn chơi Golem](huong-dan-choi-golem.md)
