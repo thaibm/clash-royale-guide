@@ -1,15 +1,19 @@
+---
+description: Chúng mình sẽ đi lướt qua các khái niệm cơ bản trong chương này
+---
+
 # 🤩 Hướng dẫn cho người mới chơi
 
 ## I. Khái niệm, thuật ngữ
 
 ### 1. Deck là gì?
 
-Deck là bộ thẻ do mình sắp xếp các troops (quân lính), building (công trình), spell (thần chú) để đấu với người chơi khác trong mọi chế độ chơi.&#x20;
+Deck là bộ thẻ do mình sắp xếp các troops (quân lính), building (công trình), spell (thần chú) để đấu với người chơi khác trong mọi chế độ chơi.
 
-Trong game có 2 loại Deck đó là&#x20;
+Trong game có 2 loại Deck đó là
 
 * Deck thông dụng (Deck có 8 card(thẻ))
-* Mega Deck (Deck có 15 card)&#x20;
+* Mega Deck (Deck có 15 card)
 
 Ở đây mình sẽ chỉ nói chủ yếu về Deck thông dụng còn Mega Deck chỉ là để chơi event (sự kiện) hoặc friendly battle (đấu giao hữu) và nó không có quy luật cycle. Bạn có thể sắp xếp deck tùy ý theo cách chơi của bạn nhưng bắt buộc bạn phải đủ 8 card (đủ deck) trước khi nhấn vào nút battle (chiến đấu) với người khác.
 
@@ -21,7 +25,7 @@ Ladder dịch là cái thang, nhưng ở trong game này nó có nghĩa là bạ
 
 _**Trophy Road**_ (mình xin phép viết tắt là _**TR**_) là nơi bạn sử dụng deck + chiến thuật của mình để leo cúp. Bạn càng leo được cúp cao thì reward (Phần thưởng) bạn nhận được tương ứng sẽ càng nhiều. Hiện tại trong game mốc cao nhất đang là 9000 tương ứng với Arena (Đấu trường) 23. Lời khuyên của mình đối với các bạn mới chơi đó là bạn hãy dành hết sức leo cúp đến mốc 6500 tại vì mốc đó là mình sẽ có cơ hội nhận được tất cả các card khi mở chest (rương). Card level cao thì cố gắng leo 9000 cúp là bạn sẽ nhận được reward lớn nhất khi mở chest (ưu tiên leo cái này hơn PoL chút xíu dành cho newbie). Sau đây là các mốc card có thể nhận được khi bạn mở chest tương ứng với các Arena
 
-*   _**Training Camp (Trại huấn luyện)**_: Đây là Arena đầu tiên và duy nhất bạn được phép đánh với deck không đủ card khi bạn mới lập 1 con acc mới toanh nhằm mục đích làm quen với game như cách thả quân, thả spell, cách công/thủ cơ bản và nó không được xếp vào 23 Arena chính như mình đã nói ở trên. Các card có thể được nhận ban đầu khi mới chơi và mở chest đó là:(Mình sẽ nói theo thứ tự từ trái sang phải, từ trên xuống dưới, những Arena sau các bạn hiểu tương tự, thêm vào đó mình sẽ viết tên card dưới dạng viết tắt luôn): Arrows (Mưa tên), Minions, Archers (Cung thủ), Knight - K9 (Kị sĩ), Princess Tower (Tháp Công Chúa), Fireball - FB (Hoả cầu), Mini Pekka - Mini PK, Musketeer - Mus - Musk (Ngự lâm quân), Giant (Khổng nhân)&#x20;
+*   _**Training Camp (Trại huấn luyện)**_: Đây là Arena đầu tiên và duy nhất bạn được phép đánh với deck không đủ card khi bạn mới lập 1 con acc mới toanh nhằm mục đích làm quen với game như cách thả quân, thả spell, cách công/thủ cơ bản và nó không được xếp vào 23 Arena chính như mình đã nói ở trên. Các card có thể được nhận ban đầu khi mới chơi và mở chest đó là:(Mình sẽ nói theo thứ tự từ trái sang phải, từ trên xuống dưới, những Arena sau các bạn hiểu tương tự, thêm vào đó mình sẽ viết tên card dưới dạng viết tắt luôn): Arrows (Mưa tên), Minions, Archers (Cung thủ), Knight - K9 (Kị sĩ), Princess Tower (Tháp Công Chúa), Fireball - FB (Hoả cầu), Mini Pekka - Mini PK, Musketeer - Mus - Musk (Ngự lâm quân), Giant (Khổng nhân)
 
     <figure><img src=".gitbook/assets/image (5).png" alt="" width="360"><figcaption></figcaption></figure>
 *   _**Arena 1 - Goblin Stadium (Đấu trường Yêu tinh)**_ - Yêu cầu cúp cao hơn hoặc = 0: Các card có thể nhận được thêm cùng Arena dưới đó là: Spear Goblin - Spear Gob (Yêu tinh ném lao), Goblin - Gob (Yêu tinh), Goblin Cage - Gob Cage (Lồng yêu tinh), Goblin Hut - Gob Hut (Lều yêu tinh)
@@ -46,15 +50,15 @@ Từ 5k5 tropy (Arena 15 trở lên) anh em có thể mở ra Champion card
 
     <figure><img src=".gitbook/assets/image (27).png" alt="" width="360"><figcaption></figcaption></figure>
 
-**LƯU Ý:** Từ Arena 18 trở đi, các bạn mở mọi loại chest là các bạn đều có khả năng nhận được tất cả các card từ đầu game đến hiện tại&#x20;
+**LƯU Ý:** Từ Arena 18 trở đi, các bạn mở mọi loại chest là các bạn đều có khả năng nhận được tất cả các card từ đầu game đến hiện tại
 
-*   _**Arena 23 - Legendary Arena (Đấu trường Huyền thoại)**_: Yêu cầu cúp = 9000:&#x20;
+*   _**Arena 23 - Legendary Arena (Đấu trường Huyền thoại)**_: Yêu cầu cúp = 9000:
 
     <figure><img src=".gitbook/assets/image (32).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ### 3. Path of Legends là gì?
 
-_**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng là 1 loại ladder khác trong game. Điểm giống và khác của PoL với TR là gì thì cùng mình tìm hiểu xem khi mà có đến 24 Arena nhưng lại chỉ có 10 League theo thứ tự Challenger I -> Challenger II -> Challenger III -> Master I -> Master II -> Master III -> Champion -> Grand Champion -> Royal Champion (RC)-> Ultimate Champion (UC).&#x20;
+_**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng là 1 loại ladder khác trong game. Điểm giống và khác của PoL với TR là gì thì cùng mình tìm hiểu xem khi mà có đến 24 Arena nhưng lại chỉ có 10 League theo thứ tự Challenger I -> Challenger II -> Challenger III -> Master I -> Master II -> Master III -> Champion -> Grand Champion -> Royal Champion (RC)-> Ultimate Champion (UC).
 
 * Điểm giống nhau:
   * Bạn cũng phải sắp xếp 1 deck gồm 8 card trước khi battle với người chơi khác để leo rank (league)
@@ -66,10 +70,10 @@ _**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng l�
 
       * **1: Card Cap Level** **(Giới hạn tối đa level (lv):** của card tương ứng với từng Rank): Cái cap level này rất quan trọng tại vì nó chỉ cho phép mình được sử dụng card level thấp hơn hoặc bằng level cap đó đối với league . VD: Mình đang chơi acc có deck như sau: Archer lv14, Ske lv13, Mortar lv15, K9 lv13, Log lv13, Rocket lv10, Bomb Tower lv10, E spirit lv12. Vậy cái lv cap ở đây có ý nghĩa rằng: TẤT CẢ card có lv lớn hơn 12 sẽ tự động về hết thành lv11 vì vượt quá cap, còn Rocket, Bomb Tower lv10 vẫn sẽ là lv10 vì chưa vượt qua lv cap. Bởi vậy theo quan điểm của mình rằng leo Rank nó sẽ công bằng hơn leo TR vì leo TR bạn có thể mang card với lv tùy ý để chơi, không bị giới hạn lv, thậm chí "Lấy thịt đè người" (Dùng card lv cao hơn để lấy lợi thế trước đối thủ); còn leo Rank nó sẽ phân loại tốt hơn người chơi hay với chưa hay do công bằng lv card.
       * **2: Time Remaining For Season (Thời gian còn lại của mỗi mùa):** Các bạn cũng cần lưu ý vấn đề này do mỗi mùa nó có thời gian nhất định. Hết số thời gian này là toàn bộ progress (quá trình) của các bạn leo Rank sẽ được làm mới sạch sẽ về League 1 khi bước sang Season mới.
-      * **3 + 4: Reward per Rank's checkpoint (Phần thưởng cho mỗi mốc Rank):**  Bạn leo được cao hơn hoặc bằng với các mốc tương ứng, bạn sẽ nhận được reward ONE TIME ONLY EACH SEASON (Mỗi mùa chỉ được nhận quà theo các mốc đúng 1 lần duy nhất).
+      * **3 + 4: Reward per Rank's checkpoint (Phần thưởng cho mỗi mốc Rank):** Bạn leo được cao hơn hoặc bằng với các mốc tương ứng, bạn sẽ nhận được reward ONE TIME ONLY EACH SEASON (Mỗi mùa chỉ được nhận quà theo các mốc đúng 1 lần duy nhất).
       * **5: Step at each League (Bậc ở mỗi rank):** Bậc này cho biết bạn đang đứng ở Step nào trong League nào. VD trong hình là bạn đang ở bậc thứ 1 của League 1
       * **6: Golden Step (Bậc Vàng):** Khi bạn leo rank, bạn sẽ gặp 1 trong 2 trường hợp đó là Stone Step và Golden Step. Golden Step có công dụng như 1 cái checkpoint nhỏ trong League đó (Điểm lưu trữ) giúp bạn giữ ở Step đó mà không bị tụt Step khi bị thua. Lưu ý rằng Golden Step chỉ xuất hiện từ League 6 trở xuống còn từ League 7 trở đi bạn cần cố gắng rất nhiều để cải thiện skill của mình, phải win 1 loạt trận liên tiếp thì mới leo lên League tiếp theo được vì sẽ chỉ có Stone Step trong quá trình leo, còn Golden Step ở đầu mỗi League nó là cố định rank bạn không bị tụt xuống dưới thấp hơn khi thua.
-      *   **7: Win Multiplayer (Cấp số nhân cho mỗi lần win đầu tiên trong Season):** Bạn có thể thắc mắc tại sao người này có ghi x7, x8, x9 thậm chí x10 dưới dòng Win Multiplayer mà mình chỉ được có x3, x4. Cái Win Multi này nó được tính dựa trên mức League cao nhất bạn leo được trong mùa ngay trước đó.&#x20;
+      *   **7: Win Multiplayer (Cấp số nhân cho mỗi lần win đầu tiên trong Season):** Bạn có thể thắc mắc tại sao người này có ghi x7, x8, x9 thậm chí x10 dưới dòng Win Multiplayer mà mình chỉ được có x3, x4. Cái Win Multi này nó được tính dựa trên mức League cao nhất bạn leo được trong mùa ngay trước đó.
 
           _VD_: Season trước bạn kết thúc ở League 7 (Champion) thì ngay khi cập nhật Season mới, bạn sẽ quay trở về League 1 như hình và Win Multi sẽ là 7x.
 
@@ -90,12 +94,12 @@ _**Path of Legends**_ _**(PoL)**_ như mình đã nói ở trên, đây cũng l�
 * _**Rush:**_ Thả quân ở cầu tấn công đối thủ hòng gây bất ngờ
 * _**Switching Lanes:**_ ở đây có nghĩa là đảo cánh tấn công. Thông thường bạn sẽ tập trung đánh 1 lane và cố gắng gây nhiều dmg lên trụ đối phương nhất có thể, switch lane tức là bạn tấn công bên còn lại. Trong tùy trường hợp, đôi khi lại là một chiến thuật hay để gây dmg lên cả 2 trụ của đối phương
 * _**Kiting:**_ nghĩa là thả diều hay còn gọi là đánh lạc hướng. Ở đây tức là bạn dùng 1 card của mình dụ quân của đối thủ đi xa khỏi tầm trụ của bạn để câu thời gian cho trụ của bạn tiêu diệt quân của đối thủ.
-* _**Aggro (Pulling aggro, Re-aggro, Retarget):**_ có nghĩa là thu hút. VD dễ hiểu đó là chẳng hạn bạn đang có tesla đặt ở trung tâm, đối thủ có MK ngay sát cầu. Thông thường nếu ko ra thêm 1 card nữa, MK sẽ tự động nhắm đến tesla mà đánh nhưng khi bạn đặt 1 card VD như K9 xuống gần MK thì MK sẽ đánh vào K9 chứ ko đánh tesla&#x20;
-*   _**Cycle:**_ cycle được dịch ra có nghĩa là chu kì. Vậy cycle của 1 card tức là như thế nào? 1 deck bạn sắp xếp để đi battle có tất cả 8 card, khi bạn dùng 1 card bất kì, thông thường bạn phải dùng tiếp **4 card** nữa thì mới thấy card mình vừa dùng xuất hiện trên tay. Mình sẽ lấy ví dụ đơn giản cho bạn dễ hiểu. Đầu tiên, VD đây là deck của mình:&#x20;
+* _**Aggro (Pulling aggro, Re-aggro, Retarget):**_ có nghĩa là thu hút. VD dễ hiểu đó là chẳng hạn bạn đang có tesla đặt ở trung tâm, đối thủ có MK ngay sát cầu. Thông thường nếu ko ra thêm 1 card nữa, MK sẽ tự động nhắm đến tesla mà đánh nhưng khi bạn đặt 1 card VD như K9 xuống gần MK thì MK sẽ đánh vào K9 chứ ko đánh tesla
+*   _**Cycle:**_ cycle được dịch ra có nghĩa là chu kì. Vậy cycle của 1 card tức là như thế nào? 1 deck bạn sắp xếp để đi battle có tất cả 8 card, khi bạn dùng 1 card bất kì, thông thường bạn phải dùng tiếp **4 card** nữa thì mới thấy card mình vừa dùng xuất hiện trên tay. Mình sẽ lấy ví dụ đơn giản cho bạn dễ hiểu. Đầu tiên, VD đây là deck của mình:
 
     <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Khi mới bắt đầu vào trận card trên tay của mình gồm có: FB, Tesla, Ice và Ske. Ở đây mình đã sử dụng Fireball đầu tiên, vậy qua 4 card mình dùng tiếp theo trên tay mình sẽ lại có FB trong hình phía bên dưới (Mình đã có chú thích). Thứ tự card mình đã sử dụng ngay sau FB lần đầu tiên đó là: Ske -> Ice -> Archer -> Log.&#x20;
+Khi mới bắt đầu vào trận card trên tay của mình gồm có: FB, Tesla, Ice và Ske. Ở đây mình đã sử dụng Fireball đầu tiên, vậy qua 4 card mình dùng tiếp theo trên tay mình sẽ lại có FB trong hình phía bên dưới (Mình đã có chú thích). Thứ tự card mình đã sử dụng ngay sau FB lần đầu tiên đó là: Ske -> Ice -> Archer -> Log.
 
 <figure><img src=".gitbook/assets/image (1).png" alt="" width="190"><figcaption><p>Trước khi dùng FB</p></figcaption></figure>
 
@@ -117,7 +121,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
     VD về 1 kiểu đánh cycle như sau: Bên mình thả hog, bên kia thả PK để thủ lại hog (Tất nhiên sẽ có 1 damage(dmg) đến từ hog và trụ). Đợi pekka qua cầu và thủ lại bằng bầy lít nhít (Bầy lít nhít tức là những card tốn rất ít eli, có số lượng nhiều nhưng dễ bị counter bởi spell nhỏ như Gob, Spirit, Ske army...). Trong quá trình này thì chúng ta lại cầm hog trên tay lần thứ 2 và tiếp tục thả hog. Nhưng lần này, dĩ nhiên đối thủ không có PK vì không thể xoay card kịp. Hog sẽ gây tương đối nhiều dmg. Bên chơi cycle thường có khuynh hướng thả trước, và tiêu eli liên tuc bằng việc thả đám lít nhít. Đi đôi với sức mạnh, dĩ nhiên là kĩ năng. Bạn phải thực sự biết chơi mới có thể phát huy sức mạnh của 1 Cycle Deck.
 
     VD các deck cycle điển hình: Hog cycle, X-bow cycle, Mortar cycle, Miner cycle, Loon cycle, Logbait cycle...
-*   _**Bait Deck:**_ Bait dịch sang tiếng Việt có nghĩa là mồi nhử. Vậy trong game nó mang ý nghĩa gì? Giả sử như bạn cảm thấy con Princess rất khó chịu, liền dùng Arrows(hay log) để diệt. Đột nhiên bên kia lại ra Gob thùng khiến bạn không còn spell để diệt nó. Hoặc nó ném thùng, bạn dùng spell. Và nó lại ra princess cấu rỉa gây ức chế. Bait không những để thử spell mà còn để nhử quân. Lúc sau quân địch sang trụ và dễ dàng tiêu diệt. Hoặc bạn có thể dùng quân của mình bait đối thủ. Ví dụ như deck bạn có cả Sparky và Balloon thì nó sẽ trở thành rocket bait. Hay có cả Ewiz cả Mother Witch thì trở thành FB bait.&#x20;
+*   _**Bait Deck:**_ Bait dịch sang tiếng Việt có nghĩa là mồi nhử. Vậy trong game nó mang ý nghĩa gì? Giả sử như bạn cảm thấy con Princess rất khó chịu, liền dùng Arrows(hay log) để diệt. Đột nhiên bên kia lại ra Gob thùng khiến bạn không còn spell để diệt nó. Hoặc nó ném thùng, bạn dùng spell. Và nó lại ra princess cấu rỉa gây ức chế. Bait không những để thử spell mà còn để nhử quân. Lúc sau quân địch sang trụ và dễ dàng tiêu diệt. Hoặc bạn có thể dùng quân của mình bait đối thủ. Ví dụ như deck bạn có cả Sparky và Balloon thì nó sẽ trở thành rocket bait. Hay có cả Ewiz cả Mother Witch thì trở thành FB bait.
 
     VD về vài deck bait cơ bản của game: Logbait, MK Miner Zapbait, Mortar Bait
 *   _**Beatdown Deck:**_ Beatdown dịch sang tiếng Việt là hạ gục. Ở trong game, deck beatdown được định nghĩa là bạn sử dụng 1 quân tank máu cực kì trâu làm Win Condition (WC - sẽ có mục phân tích về loại card này ở phần phía sau) và 1 đống card đi sau con tank đó để support và hạ gục đối thủ 1 cách dễ dàng nếu đối thủ không có troops hay building có độ hỗ trợ lẫn nhau ổn hoặc không có tank-killer. Về thiên hướng bạn nào thích chơi trò "Lấy thịt đè người" thì nên build loại deck này để chơi.
@@ -144,7 +148,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
 
 ### 5. Phân loại card
 
-#### Win condition&#x20;
+#### Win condition
 
 1.  [_**Khái niệm Win Condition Card (Card điều kiện thắng):**_](https://www.sportskeeda.com/esports/what-win-condition-clash-royale) 1 card trong Clash Royale được coi là điều kiện thắng khi nó phải thỏa mãn đồng thời 2 yếu tố sau:
 
@@ -155,7 +159,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
 2. Phân loại Win Condition Card: (Thông tin về HP, dmg của card ở trên Clash Royale fandom wiki)
 
 * Tanker (Máu trâu nhưng di chuyển chậm)
-  * [Giant ](https://clashroyale.fandom.com/wiki/Giant)
+  * [Giant](https://clashroyale.fandom.com/wiki/Giant)
   * [Royal Giant](https://clashroyale.fandom.com/wiki/Royal\_Giant)
   * [Golem](https://clashroyale.fandom.com/wiki/Golem)
   * [Elixir Golem](https://clashroyale.fandom.com/wiki/Elixir\_Golem)
@@ -169,7 +173,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
   * [**Wall Breakers**](https://clashroyale.fandom.com/wiki/Wall\_Breakers)
   * [**Miner**](https://clashroyale.fandom.com/wiki/Miner)
   * [Goblin Drill](https://clashroyale.fandom.com/wiki/Goblin\_Drill)
-* Average-Eli Win Condition  (Dùng lượng Eli trung bình 4 - 5 eli nhưng lại dmg vào trụ rất to nếu không thủ ổn)
+* Average-Eli Win Condition (Dùng lượng Eli trung bình 4 - 5 eli nhưng lại dmg vào trụ rất to nếu không thủ ổn)
   * [Hog rider](https://clashroyale.fandom.com/wiki/Hog\_Rider)
   * [**Ram Rider**](https://clashroyale.fandom.com/wiki/Ram\_Rider)
   * [**Battle Ram**](https://clashroyale.fandom.com/wiki/Battle\_Ram)
@@ -215,12 +219,12 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
 ## II. Tài nguyên trong game
 
 1. [**Gems dùng để làm gì? Kiếm gem thế nào?**](https://clashroyale.fandom.com/wiki/Gems)
-   * Gems là đơn vị tiền tệ cao cấp trong Clash Royale. Khi người chơi tải trò chơi lần đầu, họ bắt đầu với 100 Gems.&#x20;
+   * Gems là đơn vị tiền tệ cao cấp trong Clash Royale. Khi người chơi tải trò chơi lần đầu, họ bắt đầu với 100 Gems.
    * Bạn có thể kiếm thêm Gems trong trò chơi bằng cách mở Crown Chests, nhận chúng như một phần thưởng hàng ngày từ Shop hoặc từ Trophy Road dưới dạng phần thưởng miễn phí, thông qua các Event đặc biệt, Tournament, trong Clan Wars, từ việc hoàn thành Lucky Drop hoặc mua chúng bằng tiền thật. Chúng có thể được sử dụng để mở khoá Chests ngay lập tức, mua hàng trong Shop, tham gia Challenges, và nhiều hơn nữa.
 2. [**Gold (vàng) dùng để làm gì? Kiếm vàng thế nào cho nhanh?**](https://clashroyale.fandom.com/wiki/Gold)
    * Trái với Gems, Gold là đơn vị tiền tệ cơ bản trong Clash Royale. Gold được dùng để upgrade (nâng cấp) card, mua card, mua elite wild card (ewc) trong shop hoặc được dùng để tạo 1 Clan mới.
    * Gold có thể được kiếm bằng nhiều cách sau: battle win, thi thoảng là quà tặng hàng ngày free trong shop, các Event đặc biệt, Tournament, Lucky Drop (hòm huyền bí) mỗi ngày, donate (đóng góp) card cho các thành viên trong Clan, đổi Token Season (Huy hiệu tương ứng với mỗi mùa trong Season Shop), thậm chí bạn có thể mua Gold bằng Gems trong Shop. Gold chỉ không thể được chứa trong 1 số loại chest đặc biệt như Tower Troop Chest (Rương mở ra thẻ trụ), Epic Chest, Legendary Chest, Champion Chest.
-   * Cách kiếm vàng nhanh:&#x20;
+   * Cách kiếm vàng nhanh:
      * Mở Crown Chest trong mục vé Pass Royale, cứ đến mỗi mốc nhất định, bạn sẽ được mở free các Crown Chest. Bạn có thể kiếm Crown bằng việc chơi Event, battle bình thường, Tour, ... Thường thì đối với mỗi Season thì Crown Chest là nguồn kiếm Gold chủ yếu
      * Đánh Clan Wars: Clan Wars cũng là 1 hình thức kiếm Gold rất nhiều vì 1 lần battle win của nó cho reward Gold gấp nhiều lần so với 1 battle win ở TR hoặc PoL. Gold nhận được nhiều hay ít tùy thuộc vào số rank của Clan mình ở mức nào
      * Mở các loại Chest: cứ mỗi lần battle win trong PoL, TR hoặc trong tab đánh 1v1, 2v2 để kiếm Season Token, bạn đều nhận được 1 chest tương ứng với arena hiện tại của bạn. Arena bạn càng cao, reward trong các chest của bạn sẽ càng lớn (Đó là lí do vì sao mình khuyên bạn nên ưu tiên leo TR trước một chút so với PoL)
@@ -228,7 +232,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
 3.  [**Emote là gì? Kiếm Emote bằng cách nào?**](https://clashroyale.fandom.com/wiki/Emotes)
 
     * Khái niệm Emote(Biểu tượng cảm xúc): Emotes là một hình thức biểu đạt chủ yếu cho phép người chơi giao tiếp trong một trận đấu. Hầu hết Emotes đi kèm với một đoạn hoạt hình và hiệu ứng âm thanh. Emotes có thể được gửi khi tham gia vào một trận đấu, khi xem một trận đấu, hoặc trong chat của một Clan bằng cách nhấn vào nút tương ứng. Trong Training Camp, Emote không thể được dùng thay vào đó là nút dấu X để thoát Training Camp.
-    * Cách kiếm Emote: Bạn có thể kiếm emote thông qua 1 số hình thức sau:&#x20;
+    * Cách kiếm Emote: Bạn có thể kiếm emote thông qua 1 số hình thức sau:
       * Mua trong shop với giá 250 gems/1 Emote.
       * Leo PoL đến League 4 và bạn sẽ được nhận emote độc quyền của Season đó.
       * Từ 20/1/2020, khi bạn đạt top 100 Global Tournament, bạn sẽ được nhận 1 emote "King" độc quyền là phần thưởng.
@@ -237,12 +241,12 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
       * Mua Pass Royale và bạn cày Crown trong Pass bạn cũng sẽ nhận Emote độc quyền của Season đó
 
     <figure><img src=".gitbook/assets/image (60).png" alt="" width="360"><figcaption><p>Emote</p></figcaption></figure>
-4. [**Magic Items** ](https://clashroyale.fandom.com/wiki/Magic\_Items)
+4. [**Magic Items**](https://clashroyale.fandom.com/wiki/Magic\_Items)
    1. Khái niệm Magic Items: Magic Items là một loại tiền tệ cho phép người chơi upgrade và nâng card một cách nhanh chóng hơn. Magic Items có thể cho người chơi những lá bài cụ thể, nâng cấp card mà không cần sử dụng Gold, và mở khóa Chests ngay lập tức. Magic Items có thể được tìm thấy trong Chests, phần thưởng trên Trophy Road, từ các ưu đãi đặc biệt trong Shop (Mua bằng tiền thật), từ Season Shop, như một phần thưởng từ các Challenge đặc biệt, và từ Pass Royale. Người chơi có thể xem những Magic Items mà họ đang có bằng cách nhấp vào tab "Magic Items" bên cạnh mục "Cards" trong tab Collections (Bộ sưu tập). Lưu ý nho nhỏ rằng tất cả người chơi có trụ King < level 5 sẽ không được sở hữu bất cứ 1 magic items nào
    2. Phân loại Magic Items:
       1.  _**Wild Card (Thẻ Hoang)**_
 
-          * Wild Cards có thể được chuyển đổi thành bất kỳ thẻ bài nào tương ứng với độ hiếm mà người chơi đã mở khóa. Do đó, Wild Cards có thể xuất hiện ở mỗi trong năm cấp độ hiếm: Common, Rare, Epic, Legendary, Champion. Ví dụ, nếu một thẻ bài có 9/10 thẻ bài để nâng cấp tiếp theo, một Thẻ Hoang có thể được sử dụng để điền vào thẻ thứ 10, do đó cho phép thẻ bài đó được nâng cấp. Điều này làm cho chúng hữu ích để điền vào những thẻ cuối cùng cần thiết cho lần nâng cấp tiếp theo. Thẻ Hoang có thể được nhận từ Chests, tất cả cấp độ hiếm của Lucky Drops, Trophy Road, Special Challenges, Path of Legends, các ưu đãi Shop, Card Masteries, và cả hai phía của Pass Royale. Mỗi card nhận được từ một Chest trên Arena 4 có 5% cơ hội trở thành một Wild Cards của độ hiếm đó, với tỷ lệ cơ hội tăng lên càng cao hơn đối với Arena của Chest. King's Chests và Legendary King's Chests đều đảm bảo sẽ cho Wild Cards, với một Legendary Wild Card được đảm bảo bắt đầu từ Arena 11 trở lên.&#x20;
+          * Wild Cards có thể được chuyển đổi thành bất kỳ thẻ bài nào tương ứng với độ hiếm mà người chơi đã mở khóa. Do đó, Wild Cards có thể xuất hiện ở mỗi trong năm cấp độ hiếm: Common, Rare, Epic, Legendary, Champion. Ví dụ, nếu một thẻ bài có 9/10 thẻ bài để nâng cấp tiếp theo, một Thẻ Hoang có thể được sử dụng để điền vào thẻ thứ 10, do đó cho phép thẻ bài đó được nâng cấp. Điều này làm cho chúng hữu ích để điền vào những thẻ cuối cùng cần thiết cho lần nâng cấp tiếp theo. Thẻ Hoang có thể được nhận từ Chests, tất cả cấp độ hiếm của Lucky Drops, Trophy Road, Special Challenges, Path of Legends, các ưu đãi Shop, Card Masteries, và cả hai phía của Pass Royale. Mỗi card nhận được từ một Chest trên Arena 4 có 5% cơ hội trở thành một Wild Cards của độ hiếm đó, với tỷ lệ cơ hội tăng lên càng cao hơn đối với Arena của Chest. King's Chests và Legendary King's Chests đều đảm bảo sẽ cho Wild Cards, với một Legendary Wild Card được đảm bảo bắt đầu từ Arena 11 trở lên.
           * Wild Cards không thể được sử dụng một cách thủ công trên các card có đủ để upgrade, hoặc nếu người chơi chưa mở khóa nó. Khi dùng Wild Card, bạn sẽ không thể chỉ định mình sẽ được dùng số lượng cụ thể mà nó chỉ được dùng theo 2 điều kiện sau: 1 là nó sẽ fill hết số Wild Card bạn có vào Card mình muốn nâng cấp nhưng không thể đủ cho bạn up thêm 1 level nữa, 2 là nó sẽ fill đến khi nào bạn vừa đủ Card để upgrade lên level tiếp theo (Không cộng dồn).
           * Wild Card bạn lưu trữ được nhiều hay không sẽ phụ thuộc vào level King của bạn. Khi kho lưu trữ số lượng Wild Card của bạn đầy, nó sẽ tự động chuyển thành 1 card với Rarity (Độ hiếm tương ứng) bất kì.
 
@@ -260,8 +264,8 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
           * Book of Cards là 1 loại Magic Items cho phép mình fill toàn bộ số card còn thiếu ở mức độ Rarity tương ứng với mỗi card. Book có thể được nhận từ việc đánh các Challenge, các Event đặc biệt, mua trong Season Shop hoặc mua bằng tiền thật trong Shop (nạp)
           * Điểm khác biệt ở Book so với Wild Card đó là fill toàn bộ số mảnh card cần nâng lên tối đa để nâng tiếp 1 level nữa cho card, không quan tâm bạn có bao nhiêu mảnh đã có. VD: bạn đang có card Musk level 13 và 200/1250 hay 0 mảnh để lên 14. Khi bạn dùng Book of Rare (Vì Musk có Rarity là Rare), lập tức bạn sẽ đủ luôn 1250 mảnh để up Musk lên 14 mà không quan trọng số lượng mảnh bạn có sẵn là bao nhiêu.
           * 1 điểm khác biệt nữa bạn cần lưu ý đó là Wild Card chia ra làm 5 mức độ Rarity tương ứng với Rarity của card, còn Book cơ bản chia làm 4 mức độ Rarity và không có Book of Champion. Thay vào đó có Book of Books (Sổ vạn năng). Riêng Book of Books, bạn có thể fill full card để up lên level tiếp theo ở bất kì Rarity nào, còn tác dụng thì tương tự như mọi loại Book kia.
-          * _**LƯU Ý ĐẶC BIỆT KHI DÙNG BOOK ĐỂ TRÁNH LÃNG PHÍ:**_ Bạn chỉ nên dùng Book khi số lượng mảnh cần nâng của bạn lên level tiếp theo là rất ít hoặc không có mảnh nào. VD: Mình có 2 trường hợp sau về card Archer Queen lv13.&#x20;
-            * Trường hợp A: Archer Queen lv13 đang có 1/20 mảnh.&#x20;
+          * _**LƯU Ý ĐẶC BIỆT KHI DÙNG BOOK ĐỂ TRÁNH LÃNG PHÍ:**_ Bạn chỉ nên dùng Book khi số lượng mảnh cần nâng của bạn lên level tiếp theo là rất ít hoặc không có mảnh nào. VD: Mình có 2 trường hợp sau về card Archer Queen lv13.
+            * Trường hợp A: Archer Queen lv13 đang có 1/20 mảnh.
             * Trường hợp B: Archer Queen lv13 đang có 10/20 mảnh.
           * \=> Ở đây vì AQ là Rarity Champion nên bắt buộc phải dùng Book of Books để fill mảnh AQ sao cho đủ lên lv14. Vậy bạn dùng Book trong A hay B để tránh lãng phí? Câu trả lời là A tại vì với mọi loại Book, nó không quan tâm mình có sẵn bao nhiêu mảnh để nâng, nó chỉ có tác dụng fill vừa đủ số mảnh cho mình nâng lên level tiếp theo. Ở đây bạn dùng vào A, bạn sẽ được tặng 19/20 mảnh AQ để nâng lên 14; còn với B, bạn sẽ chỉ được tặng 10/20 mảnh AQ để nâng lên lv14. Như vậy so với A, bạn lỗ trắng luôn 9 mảnh Champ rất lãng phí mà mảnh Champ kiếm được rất rất khó (1 mùa leo được UC thì chỉ được 2 mảnh Champ), nhân phẩm cực tốt khi mở Lucky Drop mỗi ngày thì mới ra được mảnh Champ. => **HÃY DÙNG BOOK 1 CÁCH CẨN THẬN VÀ HỢP LÝ**
           * _**LƯU Ý NỮA VỀ INVENTORY (KHO LƯU TRỮ) CỦA BẠN:**_ Bạn sẽ chỉ được giữ 1 cuốn sách mỗi loại, khi bạn định giữ cuốn sách thứ 2, bạn sẽ nhận được 1 warning (cảnh báo) đó là convert book sang 100 Gems không kể Rarity của Book. Mình khuyên bạn nên dùng vào những card thật sự cần thiết để nâng hoặc ít mảnh để nâng, tránh trường hợp convert sang 100 Gems lãng phí hẳn 1 Book.
@@ -278,7 +282,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
       3.  _**Magic Coin:**_ Magic Coin (Đồng tiền ma thuật) được dùng để thay Gold nâng card lên level tiếp theo nếu bạn đủ mảnh. Magic Coin chỉ có thể được mua bằng tiền thật (Visa thần chưởng) trong Shop. Bạn CHỈ NÊN DÙNG Magic Coin để nâng 1 card từ lv13 lên lv14 vì nó thay 100k Gold cho bạn. LƯU Ý giống với Book, bạn chỉ được lưu trữ 1 Magic Coin trong cùng 1 thời điểm, khi có cái thứ 2 là cái cũ sẽ bị convert sang 100 Gems.
 
           <figure><img src=".gitbook/assets/image (46).png" alt="" width="188"><figcaption><p>Magic Coin</p></figcaption></figure>
-      4.  _**Chest Key:**_&#x20;
+      4.  _**Chest Key:**_
 
           * Chest Key (Chìa khóa mở rương) được dùng để mở khóa 1 rương bất kì free mà không cần đợi thời gian để mở. Bạn chỉ nên dùng Key để mở Chest đối với các rương mở mất 1 ngày đó là (Mega Lightning Chest, Legendary Chest, Royal Wild Chest, Legendary King Chest)
           * Chest Key được nhận bởi tham gia Global Tournament, phần thưởng của Pass Royale, mua trong Shop bằng tiền thật, max inventory để lưu trữ key cũng tăng dần theo King level, nếu tràn inventory thì bạn sẽ nhận được cảnh báo convert key sang 100 Gold
@@ -287,7 +291,7 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
       5.  _**Card Boost Potion:**_
 
           * Card Boost Potion (Lọ thuốc cường hóa card): là 1 loại Magic Item có tác dụng boost (Cường hóa) 1 card lên đúng bằng level trụ King của bản thân trong 1h đồng hồ.
-          * Lọ Potion này chỉ có thể nhận được khi tham gia các Event đặc biệt hoặc mua bằng tiền thật trong Shop. Bạn nên chỉ dùng loại item này khi bạn thực sự cần leo cúp cấp tốc trong vòng 1h đồng hồ đó vào card bạn định dùng để tối ưu lối chơi và leo cao nhất có thể.&#x20;
+          * Lọ Potion này chỉ có thể nhận được khi tham gia các Event đặc biệt hoặc mua bằng tiền thật trong Shop. Bạn nên chỉ dùng loại item này khi bạn thực sự cần leo cúp cấp tốc trong vòng 1h đồng hồ đó vào card bạn định dùng để tối ưu lối chơi và leo cao nhất có thể.
           * Max lưu trữ của loại item này được mặc định là 8 lọ.
 
           <figure><img src=".gitbook/assets/image (42).png" alt="" width="160"><figcaption><p>Card Boost Potion</p></figcaption></figure>
@@ -312,40 +316,39 @@ Rất thú vị phải không các bạn! Hãy tận dụng lợi thế cycle n�
 
     <figure><img src=".gitbook/assets/image (41).png" alt="" width="188"><figcaption><p>Lucky Drop</p></figcaption></figure>
 
-## &#x20;<mark style="color:red;">III. Chiến thuật</mark>
+## <mark style="color:red;">III. Chiến thuật</mark>
 
-Sau khi bạn đọc và làm quen với các phần thuật ngữ cơ bản của game, hiểu sơ qua về gameplay, cách kiếm tài nguyên, sử dụng tài nguyên như thế nào cho hợp lý thì đã đến lúc chúng ta cùng bàn về một mục tối quan trọng đó chính là "_**CHIẾN THUẬT"**_. Chiến thuật chơi, phong cách chơi của bạn ra sao nó sẽ ảnh hưởng cực kì lớn đến lối build 1 deck hoàn chỉnh của bạn sau này. Vì Clash Royale là 1 game mang tính chiến thuật rất cao chỉ PvP (Players vs Players) nên nó có nghĩa là bạn cần dùng não, kĩ năng vận hành các deck,... để chiến thắng đối thủ rồi đấy. &#x20;
+Sau khi bạn đọc và làm quen với các phần thuật ngữ cơ bản của game, hiểu sơ qua về gameplay, cách kiếm tài nguyên, sử dụng tài nguyên như thế nào cho hợp lý thì đã đến lúc chúng ta cùng bàn về một mục tối quan trọng đó chính là "_**CHIẾN THUẬT"**_. Chiến thuật chơi, phong cách chơi của bạn ra sao nó sẽ ảnh hưởng cực kì lớn đến lối build 1 deck hoàn chỉnh của bạn sau này. Vì Clash Royale là 1 game mang tính chiến thuật rất cao chỉ PvP (Players vs Players) nên nó có nghĩa là bạn cần dùng não, kĩ năng vận hành các deck,... để chiến thắng đối thủ rồi đấy.
 
 1.  Có những lối chơi nào trong Clash Royale?
 
-    Như mình đã nói, đây là 1 game mang tính chiến thuật cao, cho nên lối chơi của mỗi người là khác nhau, rất đa dạng và phong phú. Có người lại thích chơi trò xoay nhanh cho đối phương chóng mặt và bắt họ phải đỡ win condition của mình, có người lại thích chơi kiểu bình tĩnh phải giữ đầu thật lạnh rồi dồn 1 phát hạ gục đối thủ ngay tức thì... Từ những lối chơi đó mà chúng ta đã phân ra các loại deck cơ bản chính ở phần ["Các loại deck trong game"](<README (1).md#id-4.-khai-niem-cac-loai-deck-va-thuat-ngu-trong-game>)&#x20;
+    Như mình đã nói, đây là 1 game mang tính chiến thuật cao, cho nên lối chơi của mỗi người là khác nhau, rất đa dạng và phong phú. Có người lại thích chơi trò xoay nhanh cho đối phương chóng mặt và bắt họ phải đỡ win condition của mình, có người lại thích chơi kiểu bình tĩnh phải giữ đầu thật lạnh rồi dồn 1 phát hạ gục đối thủ ngay tức thì... Từ những lối chơi đó mà chúng ta đã phân ra các loại deck cơ bản chính ở phần ["Các loại deck trong game"](readme-1.md#id-4.-khai-niem-cac-loai-deck-va-thuat-ngu-trong-game)
 2. Thế nào là Balance Deck?
-   * Balance Deck / Standard Deck (Deck chuẩn): là loại deck được build có gần như đầy đủ các yếu tố bổ trợ, tương tác (Synergy) lẫn nhau rất tốt:&#x20;
-     * Win Condition,&#x20;
-     * Mini Tank/Tanker,&#x20;
-     * Anti swarm units,&#x20;
+   * Balance Deck / Standard Deck (Deck chuẩn): là loại deck được build có gần như đầy đủ các yếu tố bổ trợ, tương tác (Synergy) lẫn nhau rất tốt:
+     * Win Condition,
+     * Mini Tank/Tanker,
+     * Anti swarm units,
      * Swarm units
      * Anti air
-     * Tank Killer,&#x20;
-     * Mid/High damge Spell,&#x20;
-     * Low damge Spell,&#x20;
-     * Reset target.&#x20;
-     * Average Elixir Cost: Trung bình elixir của 8 cards trong deck của bạn. Số càng thấp thì bạn có thể cycle ra lại card vừa thả càng nhanh.&#x20;
-     * Quan trọng nhất vẫn là độ **Synergy** của các card có tốt hay không.  Đương nhiên mình chỉ nói là gần như đầy đủ vì trong game này không có 1 deck nào có thể thỏa mãn đủ tất tần tật các yếu tố trên, họ chủ yếu dựa vào Synergy giữa các card để đánh giá deck đó được build là chuẩn form để chơi hay không.
+     * Tank Killer,
+     * Mid/High damge Spell,
+     * Low damge Spell,
+     * Reset target.
+     * Average Elixir Cost: Trung bình elixir của 8 cards trong deck của bạn. Số càng thấp thì bạn có thể cycle ra lại card vừa thả càng nhanh.
+     * Quan trọng nhất vẫn là độ **Synergy** của các card có tốt hay không. Đương nhiên mình chỉ nói là gần như đầy đủ vì trong game này không có 1 deck nào có thể thỏa mãn đủ tất tần tật các yếu tố trên, họ chủ yếu dựa vào Synergy giữa các card để đánh giá deck đó được build là chuẩn form để chơi hay không.
    *   VD: Chúng ta cùng phân đến 1 deck chuẩn hiện tại đó là Logbait with Tesla 3.1 (Build deck trên Deckshop.pro)
 
        <figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-       Deck này được coi là deck chuẩn bởi bạn nhìn trên hình, độ Synergy giữa các card với nhau là tương đối tốt.&#x20;
+       Deck này được coi là deck chuẩn bởi bạn nhìn trên hình, độ Synergy giữa các card với nhau là tương đối tốt.
 
-       * VD đối thủ tiêu tốn 10 eli ngay trước cầu với combo Giant + Wizard. Giant + Wizard khi đối đầu với Logbait này là 1 thế lực đẩy nhà thực sự do có Wiz counter rất tốt đám lít nhít như Gob Gang trong Logbait và Giant máu rất rất trâu có thể đấm nát Tesla và có khả năng chạm trụ của mình nếu mình chỉ đặt Tesla để thủ. Vậy gặp 1 thế lực đẩy trụ mạnh kiểu như này chúng ta cần làm gì? Đầu tiên hãy đặt thấp Tesla ở trung tâm sân sao cho câu kéo Giant Target vào Tesla. Đối phương có Wiz đằng sau Support cho Giant đẩy nhanh hơn (Lượng dmg của Wiz là khá to) thì bạn hãy đặt K9 ở ngay cạnh đó chém chết Wiz của đối thủ. K9 có thể solo 1v1 với Wiz mà không chết. Khi đó K9 sẽ hỗ trợ cùng Tesla và trụ của mình bắn hạ Giant mà không mất xíu máu nào hoặc bị ít nhất 1 nhát từ Giant.&#x20;
+       * VD đối thủ tiêu tốn 10 eli ngay trước cầu với combo Giant + Wizard. Giant + Wizard khi đối đầu với Logbait này là 1 thế lực đẩy nhà thực sự do có Wiz counter rất tốt đám lít nhít như Gob Gang trong Logbait và Giant máu rất rất trâu có thể đấm nát Tesla và có khả năng chạm trụ của mình nếu mình chỉ đặt Tesla để thủ. Vậy gặp 1 thế lực đẩy trụ mạnh kiểu như này chúng ta cần làm gì? Đầu tiên hãy đặt thấp Tesla ở trung tâm sân sao cho câu kéo Giant Target vào Tesla. Đối phương có Wiz đằng sau Support cho Giant đẩy nhanh hơn (Lượng dmg của Wiz là khá to) thì bạn hãy đặt K9 ở ngay cạnh đó chém chết Wiz của đối thủ. K9 có thể solo 1v1 với Wiz mà không chết. Khi đó K9 sẽ hỗ trợ cùng Tesla và trụ của mình bắn hạ Giant mà không mất xíu máu nào hoặc bị ít nhất 1 nhát từ Giant.
        * VD thứ 2 khi gặp combo Lumberjack + Balloon (Combo các cao thủ đánh top cao cũng rất hay dùng). Logbait sẽ làm gì để thủ cứng combo này? Như cách phía trên mình vẫn có thể dùng K9 và Tesla để thủ cứng. Tuy nhiên cũng có 1 cách khác để thủ cứng đó là bạn dùng Ice Spirit stun Lumberjack của đối thủ rồi dùng Rocket bắn hạ cả LJ + Loon của họ
 3. Sử dụng royaleapi.com để tìm deck thế nào?
 
-## IV. Clan war&#x20;
+## IV. Clan war
 
 1. Rewards trong clan war có gì?
 2. Phải làm gì để mở chest sau khi war?
 3. Training day để làm gì?
 4. Battle day nên làm gì?
-
