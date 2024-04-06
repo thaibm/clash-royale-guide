@@ -350,32 +350,39 @@ Các bạn truy cập [https://royaleapi.com/](https://royaleapi.com/) có thể
 
 * Tìm deck nào đang được rate cao nhất ở Ultimate Champion/Grand Challange (Đây là hai rank thể hiện đúng nhất về sức mạnh của deck)
 
-<figure><img src="./assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 * Các bạn chọn filter theo card mà bạn đang muốn tìm. Bấm vào refine và Include cards/Exclude cards
 
-<figure><img src="./assets/image (62).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 4. Sử dụng [deckshop.pro](https://www.deckshop.pro/deck-builder/clan-wars/build?n=1) để check mức độ Synergy của deck
 
-Các bạn vào đường link mình gắn bên trên có thể thấy giao diện giúp bạn build deck. Ví dụ:\
+Các bạn vào đường link mình gắn bên trên có thể thấy giao diện giúp bạn build deck. Ví dụ:\\
 
-
-<figure><img src="./assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Bạn có thể click vào Check Deck để đọc chi tiết phân tích về mức độ phù hợp, hỗ trợ nhau của các card trong deck của mình, cũng như interaction với các cards khác trong game.
 
-<figure><img src="./assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="./assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
+## IV. Clan War
 
+1. Clan War là gì? Có bao nhiêu rank Clan War?
+   * Clan War (Trận chiến giữa các Clan): đúng như tên gọi Clan War là cuộc chiến giữa các clan với nhau để tranh giành kho báu trên sông (River Race) hay còn gọi đơn giản là đua thuyền. Mỗi 1 Season là tương ứng với 4 hoặc 5 tuần tranh tài của các clan với nhau trên River Race. Clan nào xuất sắc nhất sẽ đạt được thứ hạng cao nhất và ăn reward cao nhất. Cứ mỗi tuần tranh tài trôi qua, những clan tham gia war sẽ được ăn giải tương ứng với thứ hạng trong tuần của mình.
+   * Trong game có 4 rank clan war: Đồng, Bạc, Vàng và Bạch Kim. Rank của clan ảnh hưởng rất lớn đến reward của clan (Rank càng cao, reward càng lớn và ngược lại)
+2. Rewards trong clan war có gì?&#x20;
+   * Đối với các battle ở trong clan war: Khác với PoL hay TR, dù bạn thắng hay thua trong khi đánh clan war, bạn sẽ đều nhận được 1 lượng Gold nhất định. Như mình đã nói ở mục "Tài nguyên của game", clan war cũng là 1 cách để người chơi kiếm Gold.
+   * Các battle trong Clan War cũng tính crown như battle thông thường
+   * Khi hết Training Day và sau đó là Battle Day, bạn sẽ nhận được Chest War và khi mở ra bạn sẽ được rất nhiều card, thậm chí có tỉ lệ cao được card với Rarity là Legendary.&#x20;
+3.  Phải làm gì để mở chest sau khi war?
 
-## IV. Clan war
+    Rất đơn giản, bạn chỉ cần đánh 1 trận trong battle day (Ngày chiến đấu) của các clan (Thả thua hoặc đánh hẳn cũng được miễn là có tham gia vào đánh)
+4.  Training day để làm gì?
 
-1. Rewards trong clan war có gì?
-2. Phải làm gì để mở chest sau khi war?
-3. Training day để làm gì?
-4. Battle day nên làm gì?
+    Training day (Ngày tập luyện) là những ngày mà bạn build 4 deck đánh war của mình và luyện tập sao cho quen với cách đánh của Deck mình build. Nguyên tắc build vẫn tuân thủ như trong phần "Chiến thuật"
+5.  Battle day nên làm gì?
+
+    Battle day là lúc thử thách sự đoàn kết của toàn bộ các thành viên trong clan. Mỗi thành viên cố gắng bem tốt nhất có thể để win tối đa các trận qua đó giành vị trí tốt nhất hoặc lợi thế trong cuộc đua thuyền để ăn reward mỗi tuần.
