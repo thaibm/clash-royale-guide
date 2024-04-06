@@ -29,17 +29,13 @@ _**Trophy Road**_ (mình xin phép viết tắt là _**TR**_) là nơi bạn s�
     <figure><img src=".gitbook/assets/image (7).png" alt="" width="360"><figcaption></figcaption></figure>
 * _**Arena 11 - Electro Valley (Thung lũng Điện)**_: Yêu cầu cúp cao hơn hoặc = 3400: Các card có thể nhận được thêm cùng Arena dưới đó là: The log - Log (Khúc gỗ), Mega Knight - MK (Siêu Kị sĩ), Ram Rider (Lính phá thành), Electro Wizard - Ewiz (Điện Pháp sư), Inferno Dragon - Rồng ngu (Hoả ngục long), Sparky - Xe rác, Miner (Thợ mỏ), Princess (Công chúa), Dagger Duchess - Tháp Dao (Nữ công tước ném dao)
 
-{% hint style="info" %}
 Từ Arena 11 trở đi các bạn sẽ có thể mở chest ra được legendary card.
-{% endhint %}
 
 <figure><img src=".gitbook/assets/image (20).png" alt="" width="360"><figcaption></figcaption></figure>
 
 * _**Arena 16 - Executioner's Kitchen (Nhà bếp của Đao phủ)**_: Yêu cầu cúp cao hơn hoặc = 5500: Các card có thể nhận được thêm cùng Arena dưới đó là: Golden Knight - GK (Hiệp sĩ Giáp vàng), Skeleton King - Ske King (Bạch Cốt Vương)
 
-{% hint style="info" %}
 Từ 5k5 tropy (Arena 15 trở lên) anh em có thể mở ra Champion card
-{% endhint %}
 
 <figure><img src=".gitbook/assets/image (24).png" alt="" width="360"><figcaption></figcaption></figure>
 
@@ -105,12 +101,10 @@ Khi mới bắt đầu vào trận card trên tay của mình gồm có: FB, Tes
 
 <figure><img src=".gitbook/assets/image (2).png" alt="" width="190"><figcaption><p>Sau khi hết 1 vòng cycle, FB đã lại có trên tay để sẵn sàng sử dụng tiếp khi cần</p></figcaption></figure>
 
-{% hint style="info" %}
 **Trường hợp đặc biệt** trong deck của bạn có Champion card\
 Như deck bên dưới đây, mình có Mighty Miner trong deck. Vì đặc tính không thể có 2 champion trên map vậy nên giả sử MM của mình vẫn còn sống trên map mình có thể cycle ra Hog Rider thứ 2 chỉ mất tối thiểu 4 elixir:
 
 MM -> Hog -> **Skeleton -> Ice Spirit -> Log** -> 2nd Hog
-{% endhint %}
 
 <figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
