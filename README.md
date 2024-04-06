@@ -19,6 +19,4 @@ Các thuật ngữ, tên gọi trong tài liệu này mình cũng sẽ sử dụ
 
 Tài liệu này sẽ bao gồm:
 
-{% content-ref url="readme-1.md" %}
 [readme-1.md](readme-1.md)
-{% endcontent-ref %}
